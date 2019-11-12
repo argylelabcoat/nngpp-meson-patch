@@ -1,0 +1,10 @@
+[wrap-file]
+directory = nngpp-1.1.1
+
+source_url = https://github.com/cwzx/nngpp/archive/nng-v1.1.1.zip
+source_filename = nngpp-nng-v1.1.1.zip
+source_hash = ff001e91c119766bfc4ca77ab069668ee977b9e96c0eeb5b1a920ad7c7971b47
+
+patch_url = https://github.com/argylelabcoat/nngpp-meson-patch/archive/v1.1.1.zip
+patch_filename = nngpp-meson-patch-1.1.1.zip
+patch_hash = 
