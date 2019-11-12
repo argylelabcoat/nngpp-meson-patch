@@ -7,4 +7,4 @@ source_hash = ff001e91c119766bfc4ca77ab069668ee977b9e96c0eeb5b1a920ad7c7971b47
 
 patch_url = https://github.com/argylelabcoat/nngpp-meson-patch/archive/v1.1.1.zip
 patch_filename = nngpp-meson-patch-1.1.1.zip
-patch_hash = 
+patch_hash = 2ca6fe3b941a694af23bdfb7ad23021f9fd5c0c1eaf0b9f138b1a9870fb54be2
