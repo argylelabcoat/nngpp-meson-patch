@@ -5,6 +5,6 @@ source_url = https://github.com/cwzx/nngpp/archive/nng-v1.1.1.zip
 source_filename = nngpp-nng-v1.1.1.zip
 source_hash = ff001e91c119766bfc4ca77ab069668ee977b9e96c0eeb5b1a920ad7c7971b47
 
-patch_url = https://github.com/argylelabcoat/nng-meson-patch/releases/download/v1.1.1/nngpp-nng-patch-v1.1.1.zip
+patch_url = https://github.com/argylelabcoat/nngpp-meson-patch/releases/download/v1.1.1/nngpp-nng-patch-v1.1.1.zip
 patch_filename = nngpp-nng-patch-v1.1.1.zip
 patch_hash = e14484056f6e5cdcb929cb7d81522b5444697e1c3d7ad79e97017d34928f2693
